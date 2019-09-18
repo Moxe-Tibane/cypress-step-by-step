@@ -1,0 +1,25 @@
+{
+  "name": "cypress-step-by-step",
+  "version": "1.0.0",
+  "description": "Cypress UI Automation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MoxeTibane/cypress-step-by-step.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MoxeTibane/cypress-step-by-step/issues"
+  },
+  "homepage": "https://github.com/MoxeTibane/cypress-step-by-step#readme",
+  "dependencies": {
+    "cypress": "^3.4.1",
+    "cypress-xpath": "^1.4.0"
+  },
+  "devDependencies": {}
+}
